@@ -1,0 +1,8 @@
+{
+  "name": "LastMessageTimePlugin",
+  "version": "1.0.0",
+  "description": "show",
+  "main": "index.js",
+  "author": "test",
+  "license": "MIT"
+}
